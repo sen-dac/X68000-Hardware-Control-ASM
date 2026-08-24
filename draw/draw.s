@@ -4,7 +4,7 @@
 ; filename:    draw.s
 ; version:     1. 0. 0
 ; author:      SEN::DAC
-; Description: グラフィック画面とスプライトの描画テスト
+; Description: グラフィック画面とスプライトの描画
 ;------------------------------------------------------------------------------
                 .include doscall.mac
                 .include ./dma/dma.h
