@@ -8,4 +8,4 @@ X68000のFM音源(YM2151)を制御するための実装例。
 
 ## ■ YM2151(OPM)で学ぶFM音源
 #0 [音楽知識ゼロから'ド'(C4)を鳴らす](https://dev.zuiki.com/project-z/community/post/detail/1787)  
-#1 [VOPM設定値をレジスタに書き込む](https://dev.zuiki.com/project-z/community/post/detail/799)  
+#1 [VOPM設定値をレジスタに書き込む](https://dev.zuiki.com/project-z/community/post/detail/1799)  
