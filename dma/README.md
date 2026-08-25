@@ -9,6 +9,6 @@ X68000のDMAC(HD63450)を制御するための実装例。
 #2 [レジスタ詳細確認](https://dev.zuiki.com/project-z/community/post/detail/976)  
 #3 [レジスタ使用手順の確認 ～ コーディング](https://dev.zuiki.com/project-z/community/post/detail/1002)  
 #4 [DPSを16ビットから8ビットに変更してみる](https://dev.zuiki.com/project-z/community/post/detail/1040)  
-#5 [割り込みの利用 (転送完了, 転送エラー)](https://dev.zuiki.com/project-z/community/post/detail/534)  
+#5 [割り込みの利用 (転送完了, 転送エラー)](https://dev.zuiki.com/project-z/community/post/detail/1534)  
 
 
