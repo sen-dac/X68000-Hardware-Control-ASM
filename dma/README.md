@@ -1,7 +1,7 @@
 # X68000-DMA-ASM
 X68000のDMAC(HD63450)を制御するための実装例。  
-詳しくは以下の記事をご覧ください。  
-※ 閲覧にはZ-CLUBアカウントが必要です。
+詳しくは以下のZ-CLUB記事をご覧ください。  
+※ 閲覧にはアカウントが必要です。
 
 ## ■ HD63450で学ぶDMA転送
 #0 [まずは使ってみよう](https://dev.zuiki.com/project-z/community/post/detail/940)  
